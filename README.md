@@ -16,7 +16,7 @@ I guess it makes sense to die as a corny side project!
 
 Fully compiles without error and runs with 99% no bugs <sub>see notes below</sub>.
 
-Project is in Gradle for Minecraft Forge 1.12.2. This version is comparatively ancient when compared with everything newer. The support for this version is almost non-existent.
+Project is in Gradle for Forge 1.12.2. This version is comparatively ancient when compared with everything newer. The support for this version is almost non-existent.
 
 Migration to later versions will be very challenging. I am not a Forge dev, so the perceived work required is completely foreign to me... I already tried a bit of migration to 1.21.1 for the hell of it, and ran into a brick wall with the main class and proxy (I have no clue what I am doing with Forge).
 
@@ -36,7 +36,7 @@ Initial goals of this project
 
 ## Repeatability
 
-If you want to reverse engineer the jar yourself, you'll need some tools. This isn't just something as simple as a Minecraft plugin. It's a Forge mod. all usages of NMS have been converted to SRG mappings. On top of that is heavy obfuscation. 
+If you want to reverse engineer the jar yourself, you'll need some tools. This isn't just something as simple as a Spigot plugin. It's a Forge mod. all usages of NMS have been converted to SRG mappings. On top of that is heavy obfuscation. 
 
 Very. 
 Heavy.
