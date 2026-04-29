@@ -1,5 +1,19 @@
 **This is strictly an adult oriented (18+) project.** 
 
+I would like to warn people to stay away from **r/jennymod** (hxxps://www.reddit.com/r/jennymod), as the current moderation team apparently has something against freedom and transparent software? The ban reason: `mod stays dead`. Not informative or reasonable whatsoever.
+My guess(es):
+- They are trying to funnel everyone through their discord servers for ID / identity gathering (although they claim they do not keep info).
+- Providing tracked links leading to the jar download (this is just a simple java program, take note...). This acts as a fingerprint, thus a tie to your real government identity.
+- This approach in making it overly difficult to acquire a single .jar file, hints to me, that they are catering to a very specific (desperate) sect of users.
+ - These users will not think twice about installing an inconspicious java program sourced from a Discord server.
+ - These users dare not question what they are about to run on their host computer.
+
+Silencing users for such minor acts insinuates a larger game at play here. I simply offered a solution for those who would like to add their own personalized features to the mod, at their own discretion. This behavior goes against several of my core beliefs, and I cannot act like it isn't a larger problem.
+
+**You have been warned.**
+
+---
+
 I do not claim ownership over this mods source code or any affiliation with the original developers of this mod.
 
 This is a reverse engineering project, with a main focus on Java obfuscation as documented below. 
